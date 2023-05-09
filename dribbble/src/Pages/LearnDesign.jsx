@@ -1,6 +1,6 @@
 import React from 'react';
   
-const Gopro = () => {
+const Learn = () => {
   return (
     <div
       style={{
@@ -10,9 +10,9 @@ const Gopro = () => {
         height: '100vh'
       }}
     >
-      <h1>Welcome to GeeksforGeeks Events</h1>
+      <h1></h1>
     </div>
   );
 };
   
-export default Gopro;
+export default Learn;
